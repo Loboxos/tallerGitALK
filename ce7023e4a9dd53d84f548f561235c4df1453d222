@@ -1,0 +1,32 @@
+[33mcommit c802753896089fab4e301bd733cf7ba11a579eae[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Merge: 38e2156 c65c840
+Author: Cristian Villa <100051726+Loboxos@users.noreply.github.com>
+Date:   Fri May 12 19:12:29 2023 -0300
+
+    Merge pull request #1 from Loboxos/feature-adding-other-title
+    
+    desarrollo en rama feature
+
+[33mcommit c65c8404634d8cc61dbc8b14121bd5e8c6e3d685[m[33m ([m[1;32mfeature-adding-other-title[m[33m)[m
+Author: Loboxos <vcristian528@gmail.com>
+Date:   Fri May 12 19:07:30 2023 -0300
+
+    desarrollo en rama feature
+
+[33mcommit 38e21569a2efce34499491c851024714856d5c48[m
+Author: Loboxos <vcristian528@gmail.com>
+Date:   Fri May 12 18:55:07 2023 -0300
+
+    primer commit
+
+[33mcommit ad96d8433d9c71c71aa5a78baf88b02275efba36[m
+Author: Cristian Villa <100051726+Loboxos@users.noreply.github.com>
+Date:   Fri May 12 18:41:56 2023 -0300
+
+    Update README.md
+
+[33mcommit ce7023e4a9dd53d84f548f561235c4df1453d222[m
+Author: Cristian Villa <100051726+Loboxos@users.noreply.github.com>
+Date:   Fri May 12 18:41:12 2023 -0300
+
+    Initial commit
